@@ -1,0 +1,5 @@
+netdisk.com,192.168.254.1
+google.com,8.8.8.8
+
+
+
